@@ -12,7 +12,7 @@ A Claude Code skill that adds subtitles to videos using local Whisper speech-to-
 ## Install
 
 ```bash
-claude install gh:pufftofu/video-subtitle-skill
+claude install gh:Tofuswang/video-subtitle-skill
 ```
 
 ## Prerequisites
